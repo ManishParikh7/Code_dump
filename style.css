@@ -5,4 +5,27 @@ body{
     background-color: rgb(109, 102, 102);
     color: rgb(255, 157, 157);
 }
+li{
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+
+}
+ul li a{
+    color: rgb(255, 157, 157);
+    text-decoration: none;
+    text-align: center;
+    
+    
+}
+ul li a:hover{
+    color: rgb(78, 157, 181);
+}
+
+span{
+    margin-top: 50px;
+}
 
